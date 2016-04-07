@@ -1,0 +1,5 @@
+{
+"begin":["This is the ","Those ","That "],
+"middle":[" cat"," my car"," my house"],
+"end":[" test"," a program in json" , " red one"]
+}
